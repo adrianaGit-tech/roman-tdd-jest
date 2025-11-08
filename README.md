@@ -16,10 +16,10 @@ TypeScript · Jest · Node.js · TDD
 **Funcionalidad Principal: convert_number(roman: string): string**
 
 Ejecución del Proyecto
-1. Instalación de dependencias**
+1. Instalación de dependencias: 
 npm install
 
-2. Ejecución de pruebas
+2. Ejecución de pruebas: 
 npm test
 
 

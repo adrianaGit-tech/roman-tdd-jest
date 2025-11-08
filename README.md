@@ -10,10 +10,7 @@ Refactorizar manteniendo las pruebas en verde
 Es ideal para demostrar fundamentos de testing automatizado, uso de Jest y buenas prácticas de desarrollo orientado a pruebas.
 
 **Tecnologías utilizadas:**
-TypeScript
-Jest
-Node.js
-TDD
+TypeScript · Jest · Node.js · TDD
 
 **Funcionalidad Principal: convert_number(roman: string): string**
 
